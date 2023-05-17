@@ -16,4 +16,6 @@
 
 
 ![image](https://github.com/SeVaSe/console_Derevo_Moskvitina/assets/108822198/daa6b6be-eab7-4aba-85eb-02a38f768392)
+![image](https://github.com/SeVaSe/console_Derevo_Moskvitina/assets/108822198/ce7ff6e9-878b-486d-9ea5-a790700cb10d)
+
 
