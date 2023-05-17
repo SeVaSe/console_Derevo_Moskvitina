@@ -10,3 +10,7 @@
 
 ![image](https://github.com/SeVaSe/console_Derevo_Moskvitina/assets/108822198/192f662c-856d-4c2e-9a33-2828739d7946)
 
+
+Еще примеры типов деревьев:
+![image](https://github.com/SeVaSe/console_Derevo_Moskvitina/assets/108822198/5bd8f877-8f82-4a44-978a-1a816ff00172)
+
