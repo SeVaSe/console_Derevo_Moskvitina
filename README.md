@@ -20,5 +20,5 @@
 ![image](https://github.com/SeVaSe/console_Derevo_Moskvitina/assets/108822198/3b0cf947-de04-4f6f-ba8e-2370f4d4a768)
 ![image](https://github.com/SeVaSe/console_Derevo_Moskvitina/assets/108822198/6ad464ae-08f3-49ee-89c9-d7115f147f8f)
 
-и множество других бесконечных комбинаций можно придумать :)
+И множество других бесконечных комбинаций можно придумать :)
 
